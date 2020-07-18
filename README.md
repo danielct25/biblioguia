@@ -1,2 +1,2 @@
 # biblioguia
-Justa repository
+Aplicativo para guia de bibliotecas
